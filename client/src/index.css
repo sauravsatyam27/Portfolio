@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+/* Base styles */
+body {
+  background-color: #f9fafb; /* gray-50 */
+  color: #111827; /* gray-900 */
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+h1 {
+  font-size: 2.25rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.875rem;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
